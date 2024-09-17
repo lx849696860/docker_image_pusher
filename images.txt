@@ -5,6 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-postgres:15-alpine
-ghcr.io/requarks/wiki:2
+ollama/ollama:0.3.11-rc4-rocm
+ollama/ollama:0.3.11-rc4
+ollamawebui/ollama-webui:latest
  

@@ -5,7 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ollama/ollama:0.3.11-rc4-rocm
-ollama/ollama:0.3.11-rc4
-ollamawebui/ollama-webui:latest
+elasticsearch:8.15.3
  

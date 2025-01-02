@@ -5,8 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-matrixdotorg/synapse:latest
-vectorim/element-web:latest
-matrixdotorg/synapse:sha256-39f94b005e87cd3042c2535c37d8d9f915a88072fe79f6283ac18977fe134321.sig
-vectorim/element-web:sha256-03751043764c579d26c540d5a85590e67245793bc57a6c801ea5a90fb6b08e23.sig
+awesometechnologies/synapse-admin:master
  

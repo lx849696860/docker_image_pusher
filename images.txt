@@ -5,5 +5,25 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-python:3.7.10-slim
+elasticsearch:7.17.18
+python:3.7.10-slim-buster
+python:3.7.10-buster
+python:3.7.10-alpine3.13
+python:3.7.10
+python:3.7.10-stretch
+python:3.7.10-slim-stretch
+python:3.7.10-alpine3.14
+python:3.7.10-alpine
+python:3.7.10-alpine3.12
+python:3.8.10-slim-buster
+python:3.8.10-slim
+python:3.8.10-buster
+python:3.8.10-alpine3.13
+python:3.8.10
+python:3.8.10-alpine3.14
+python:3.8.10-alpine
+python:3.8.10-windowsservercore-ltsc2016
+python:3.8.10-windowsservercore-1809
+python:3.8.10-windowsservercore
+python:3.8.10-alpine3.12
  

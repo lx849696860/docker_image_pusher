@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-uroybd/python3-psycopg2-alpine:3.7
+hulthe/matrix-federation-tester:latest

@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-hulthe/matrix-federation-tester:latest
+archivebox/archivebox:0.7

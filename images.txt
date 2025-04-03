@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nginx:1.26.3
+ghcr.io/open-webui/open-webui:v0.5.19

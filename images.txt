@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist 
 
-justlikemaki/aiclient-2-api
-justlikemaki/openclaw-docker-cn-im:2026.3.13
+--platform linux/arm64 emqx/emqx:5.0.14

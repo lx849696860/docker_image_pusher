@@ -7,3 +7,4 @@
 
 --platform linux/arm64 emqx/emqx:5.0.14
 --platform linux/arm64 tdengine/tdengine:3.0.1.4
+--platform linux/arm64 nginx:1.21.3

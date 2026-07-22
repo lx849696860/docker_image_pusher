@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist 
 
---platform linux/arm64 mongo:4.0.5
+--platform linux/arm64 jmoyer/vsftpd:v2026.07.17.23.05.46

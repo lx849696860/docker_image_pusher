@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist 
 
---platform linux/arm64 jmoyer/vsftpd:v2026.07.17.23.05.46
+nginx:1.30.4-alpine
+--platform linux/arm64 nginx:1.30.4-alpine
